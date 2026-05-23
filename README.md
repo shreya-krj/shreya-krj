@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
-<h3 align="center">A passionate A passionate aspiring developer</h3>
+<h3 align="center">A passionate aspiring developer</h3>
 
 - 🌱 I’m currently learning **C++, JavaScript, and React**
 
-- 📫 How to reach me **shreya.jags123@gmail.com**
+- 📫 How to reach me **shreya.krj07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
